@@ -9,10 +9,10 @@ Startups in general:
 - ~~[My Best Advice for Entrepreneurs: Learn to Speak](http://www.linkedin.com/today/post/article/20130819204919-62614725-my-best-advice-for-entrepreneurs)~~
 - [Paul Graham on Building Companies for Fast Growth ](http://www.inc.com/magazine/201309/issie-lapowsky/how-paul-graham-became-successful.html)
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
-- [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
+- ~~[The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)~~
 - [The Founder's guide to selling your company](http://justinkan.com/the-founders-guide-to-selling-your-company)
 - [How to make sense of conflicting startup advice](http://www.bothsidesofthetable.com/2014/08/30/here-is-how-to-make-sense-of-conflicting-startup-advice/)
-- [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
+- ~~[The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)~~
 
 Management, Scaling and Hiring:
 
