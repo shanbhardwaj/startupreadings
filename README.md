@@ -7,7 +7,7 @@ Startups in general:
 - [What startups are really like by Paul Graham](http://www.paulgraham.com/really.html)
 - [Startup Advice by Sam Altman](http://blog.samaltman.com/startup-advice)
 - ~~[My Best Advice for Entrepreneurs: Learn to Speak](http://www.linkedin.com/today/post/article/20130819204919-62614725-my-best-advice-for-entrepreneurs)~~
-- [Paul Graham on Building Companies for Fast Growth ](http://www.inc.com/magazine/201309/issie-lapowsky/how-paul-graham-became-successful.html)
+- ~~[Paul Graham on Building Companies for Fast Growth ](http://www.inc.com/magazine/201309/issie-lapowsky/how-paul-graham-became-successful.html)~~
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
 - ~~[The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)~~
 - [The Founder's guide to selling your company](http://justinkan.com/the-founders-guide-to-selling-your-company)
